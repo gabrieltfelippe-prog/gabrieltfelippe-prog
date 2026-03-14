@@ -22,3 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/gabrieltfelippe-prog/gabrieltfelippe-prog/output/snake.svg" alt="Snake animation" />
+
+###
